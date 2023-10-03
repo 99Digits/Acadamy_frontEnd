@@ -1,0 +1,9 @@
+.hamburger-button:hover {
+    background-color: #ffffff; /* Change the background color on hover */
+    color: #000000; /* Change the text color on hover */
+    /* You can add more styles here */
+  }
+  .menu-item:hover {
+    color: #080404; /* Change text color on hover */
+    /* You can add more styles here, like background-color or text-decoration */
+  }

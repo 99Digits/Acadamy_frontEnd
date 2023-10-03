@@ -1,0 +1,22 @@
+@keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  .ball {
+    width: 40px;
+    height: 40px;
+    background-color: #3498db;
+    border-radius: 50%;
+    position: absolute;
+    animation: bounce 1s infinite;
+  }
+  .registerplus{
+    font-weight: bold;
+    color:blue;
+    
+  }

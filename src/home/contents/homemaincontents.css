@@ -1,0 +1,34 @@
+.welcome-logo{
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.welcome{
+    font-size: 40px;
+    color: rgb(10, 10, 10);
+}
+.welcome_h4{
+    font-size: 26px;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.typed_data{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    overflow: hidden;
+    overflow: hidden;
+
+
+}
+.typed_color{
+    
+    color: rgb(82, 82, 196);
+}
